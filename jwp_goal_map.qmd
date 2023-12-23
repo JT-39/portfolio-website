@@ -1,0 +1,11 @@
+---
+title: JWP Goals
+---
+
+Back when Southampton F.C. were in the Premier League, a player named James Ward-Prowse (JWP) was (and still is) a club legend and a very talented football player.
+
+The map below shows all his goals, whom he scored against and where he scored them from in that last season he played for the club.
+
+!(Insert_image)[JWP goal map]
+
+The code used to extract and plot the data can be found in the folder "JWP_goals".
