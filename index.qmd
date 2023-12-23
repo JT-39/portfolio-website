@@ -1,0 +1,8 @@
+---
+title: "Portfolio Website for Jake Tufts"
+---
+
+## Introduction
+
+Welcome to my code portfolio website! My name is Jake Tufts, and I am a passionate data scientist with expertise in Python, R, data visualization and (to be) web development/Javascript.
+

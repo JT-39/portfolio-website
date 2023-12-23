@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+A little bit about me, I've tried to keep it humble with as few sentences as possible starting with "I" ...
+
+I have a strong background in data analysis and enjoy telling stories through data. My goal is to create interactive and engaging data visualizations that help users gain insights to make informed decisions.
+
+My professional career started as a Data scientist at NHS Morecambe Bay. I now work at the Department for Education as a Data Sceitnist. I have a BSc in Economics and a MSc in Health Data Science, both of which I studied at the University of Birmingham.
+
+Feel free to explore my portfolio and get in touch with me if you have any questions or collaboration opportunities. Thank you for visiting!

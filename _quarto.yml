@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "JT"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  page-footer: 
+    left: 
+      - icon: github
+        href: https://github.com/JT-39
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jake-tufts-394jt
+    right: "This is a Quarto website. To learn more about Quarto websites visit: <https://quarto.org/docs/websites>."
+    background: light
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
