@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "A little bit about me, I’ve tried to keep it humble with as few sentences as possible starting with “I” …\nI have a strong background in data analysis and enjoy telling stories through data. My goal is to create interactive and engaging data visualizations that help users gain insights to make informed decisions.\nMy professional career started as a Data scientist at NHS Morecambe Bay. I now work at the Department for Education as a Data Sceitnist. I have a BSc in Economics and a MSc in Health Data Science, both of which I studied at the University of Birmingham.\nFeel free to explore my portfolio and get in touch with me if you have any questions or collaboration opportunities. Thank you for visiting!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio Website for Jake Tufts",
@@ -19,5 +12,12 @@
     "title": "Portfolio Website for Jake Tufts",
     "section": "",
     "text": "Welcome to my code portfolio website! My name is Jake Tufts, and I am a passionate data scientist with expertise in Python, R, data visualization and (to be) web development/Javascript."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A little bit about me, I’ve tried to keep it humble with as few sentences as possible starting with “I” …\nI have a strong background in data analysis and enjoy telling stories through data. My goal is to create interactive and engaging data visualizations that help users gain insights to make informed decisions.\nMy professional career started as a Data scientist at NHS Morecambe Bay. I now work at the Department for Education as a Data Sceitnist. I have a BSc in Economics and a MSc in Health Data Science, both of which I studied at the University of Birmingham.\nFeel free to explore my portfolio and get in touch with me if you have any questions or collaboration opportunities. Thank you for visiting!"
   }
 ]
