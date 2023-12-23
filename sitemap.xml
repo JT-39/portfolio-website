@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/JT-39/portfolio-website-actions-hosted/index.html</loc>
-    <lastmod>2023-12-23T20:27:00.856Z</lastmod>
+    <loc>https://github.com/JT-39/portfolio-website-actions-hosted/jwp_goal_map.html</loc>
+    <lastmod>2023-12-23T23:17:35.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JT-39/portfolio-website-actions-hosted/jwp_goals/Extract_goal_pos_JWP.html</loc>
+    <lastmod>2023-12-23T23:17:34.673Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/JT-39/portfolio-website-actions-hosted/about.html</loc>
-    <lastmod>2023-12-23T20:27:00.328Z</lastmod>
+    <lastmod>2023-12-23T23:17:33.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JT-39/portfolio-website-actions-hosted/publication.html</loc>
+    <lastmod>2023-12-23T23:17:34.325Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JT-39/portfolio-website-actions-hosted/index.html</loc>
+    <lastmod>2023-12-23T23:17:34.909Z</lastmod>
   </url>
 </urlset>
