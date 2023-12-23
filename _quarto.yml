@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publication.qmd
+      - jwp_goal_map.qmd
 
   page-footer: 
     left: 
