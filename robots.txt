@@ -1,1 +1,1 @@
-Sitemap: https://github.com/JT-39/portfolio-website-actions-hosted/sitemap.xml
+Sitemap: https://github.com/JT-39/portfolio-website/sitemap.xml
