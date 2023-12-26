@@ -6,6 +6,6 @@ Back when Southampton F.C. were in the Premier League, a player named James Ward
 
 The map below shows all his goals, whom he scored against and where he scored them from in that last season he played for the club.
 
-!(Insert_image)[JWP goal map]
+![JWP Goal Map 22/23 season](images/jwp_goal_map_2223.png)
 
 The code used to extract and plot the data can be found in the folder "JWP_goals".
